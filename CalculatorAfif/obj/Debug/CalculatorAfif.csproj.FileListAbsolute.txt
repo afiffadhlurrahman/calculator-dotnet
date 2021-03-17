@@ -1,0 +1,10 @@
+C:\Users\afiff\source\repos\CalculatorAfif\CalculatorAfif\bin\Debug\CalculatorAfif.exe.config
+C:\Users\afiff\source\repos\CalculatorAfif\CalculatorAfif\bin\Debug\CalculatorAfif.exe
+C:\Users\afiff\source\repos\CalculatorAfif\CalculatorAfif\bin\Debug\CalculatorAfif.pdb
+C:\Users\afiff\source\repos\CalculatorAfif\CalculatorAfif\obj\Debug\CalculatorAfif.csprojAssemblyReference.cache
+C:\Users\afiff\source\repos\CalculatorAfif\CalculatorAfif\obj\Debug\CalculatorAfif.Form1.resources
+C:\Users\afiff\source\repos\CalculatorAfif\CalculatorAfif\obj\Debug\CalculatorAfif.Properties.Resources.resources
+C:\Users\afiff\source\repos\CalculatorAfif\CalculatorAfif\obj\Debug\CalculatorAfif.csproj.GenerateResource.cache
+C:\Users\afiff\source\repos\CalculatorAfif\CalculatorAfif\obj\Debug\CalculatorAfif.csproj.CoreCompileInputs.cache
+C:\Users\afiff\source\repos\CalculatorAfif\CalculatorAfif\obj\Debug\CalculatorAfif.exe
+C:\Users\afiff\source\repos\CalculatorAfif\CalculatorAfif\obj\Debug\CalculatorAfif.pdb
